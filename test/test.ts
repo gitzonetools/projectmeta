@@ -1,8 +1,8 @@
 import { expect, tap } from 'tapbundle';
-import * as metaproject from '../ts/index';
+import * as projectmeta from '../ts/index';
 
 tap.test('first test', async () => {
-  console.log(metaproject.standardExport);
+  console.log(projectmeta.standardExport);
 });
 
 tap.start();

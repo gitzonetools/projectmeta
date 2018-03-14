@@ -1,5 +1,5 @@
 {
-  "name": "metaproject",
+  "name": "projectmeta",
   "version": "1.0.3",
   "description": "smart handling of meta projects",
   "main": "dist/index.js",
